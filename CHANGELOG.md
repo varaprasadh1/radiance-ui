@@ -1,4 +1,6 @@
 # CHANGELOG
+## v2.0.37
+- Added calendar icon ([PR #104](https://github.com/PocketDerm/radiance-ui/pull/104))
 
 ## v2.0.36
 - Exclude external dependencies from build ([PR #103](https://github.com/PocketDerm/radiance-ui/pull/103))
