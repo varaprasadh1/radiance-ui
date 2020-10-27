@@ -181,7 +181,7 @@ exports[`<Arrow /> UI snapshots renders with bottom right alignment 1`] = `
   }
 }
 
-.emotion-4 {
+.emotion-2 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -199,7 +199,7 @@ exports[`<Arrow /> UI snapshots renders with bottom right alignment 1`] = `
   justify-content: center;
 }
 
-.emotion-6 {
+.emotion-3 {
   display: block;
   -webkit-align-self: flex-end;
   -ms-flex-item-align: end;
@@ -211,17 +211,17 @@ exports[`<Arrow /> UI snapshots renders with bottom right alignment 1`] = `
   margin-left: auto;
 }
 
-.emotion-6 button {
+.emotion-3 button {
   background-color: none;
   border-color: #332e54;
   color: #332e54;
 }
 
-.emotion-6 button:hover {
+.emotion-3 button:hover {
   color: #332e54;
 }
 
-.emotion-2 {
+.emotion-1 {
   color: #524D6E;
   font-size: 0.75rem;
   line-height: 1.67;
@@ -267,24 +267,24 @@ exports[`<Arrow /> UI snapshots renders with bottom right alignment 1`] = `
   padding: 0;
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   -webkit-transition: all 350ms ease-in-out;
   transition: all 350ms ease-in-out;
 }
 
-.emotion-2:active,
-.emotion-2:focus {
+.emotion-1:active,
+.emotion-1:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
-.emotion-2:visited,
-.emotion-2:hover {
+.emotion-1:visited,
+.emotion-1:hover {
   opacity: 1;
   color: #c3c0cd;
 }
 
-.emotion-2 > svg {
+.emotion-1 > svg {
   opacity: 1;
   -webkit-transition: opacity 350ms;
   transition: opacity 350ms;
@@ -343,21 +343,21 @@ exports[`<Arrow /> UI snapshots renders with bottom right alignment 1`] = `
 }
 
 <div
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   disabled={true}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <button
-      className="emotion-2 emotion-3"
+      className="emotion-1"
       disabled={true}
       onClick={[Function]}
       type="button"
     >
       <svg />
       <div
-        className="emotion-0 emotion-1"
+        className="emotion-0"
         disabled={true}
       >
         <div>
@@ -463,7 +463,7 @@ exports[`<Arrow /> UI snapshots renders with props 1`] = `
   }
 }
 
-.emotion-6 {
+.emotion-3 {
   position: absolute;
   top: 50%;
   z-index: 2000;
@@ -474,7 +474,7 @@ exports[`<Arrow /> UI snapshots renders with props 1`] = `
   left: 0.5rem;
 }
 
-.emotion-4 {
+.emotion-2 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -492,7 +492,7 @@ exports[`<Arrow /> UI snapshots renders with props 1`] = `
   justify-content: center;
 }
 
-.emotion-2 {
+.emotion-1 {
   color: #524D6E;
   font-size: 0.75rem;
   line-height: 1.67;
@@ -539,28 +539,28 @@ exports[`<Arrow /> UI snapshots renders with props 1`] = `
   padding: 0;
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   -webkit-transition: all 350ms ease-in-out;
   transition: all 350ms ease-in-out;
 }
 
-.emotion-2:active,
-.emotion-2:focus {
+.emotion-1:active,
+.emotion-1:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   box-shadow: 0px 8px 24px rgba(52,51,82,0.10);
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   -webkit-transition: all 350ms ease-in-out;
   transition: all 350ms ease-in-out;
   opacity: 1;
 }
 
-.emotion-2 > svg {
+.emotion-1 > svg {
   opacity: 1;
   -webkit-transition: opacity 350ms;
   transition: opacity 350ms;
@@ -616,21 +616,21 @@ exports[`<Arrow /> UI snapshots renders with props 1`] = `
 }
 
 <div
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   disabled={false}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <button
-      className="emotion-2 emotion-3"
+      className="emotion-1"
       disabled={false}
       onClick={[Function]}
       type="button"
     >
       <svg />
       <div
-        className="emotion-0 emotion-1"
+        className="emotion-0"
         disabled={false}
       >
         <div>

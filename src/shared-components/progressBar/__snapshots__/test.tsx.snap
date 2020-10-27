@@ -29,7 +29,7 @@ exports[`<ProgressBar /> UI snapshot renders with custom props 1`] = `
   }
 }
 
-.emotion-2 {
+.emotion-1 {
   position: absolute;
   top: 0;
   left: 0;
@@ -65,11 +65,11 @@ exports[`<ProgressBar /> UI snapshot renders with custom props 1`] = `
 }
 
 <div
-  className="emotion-2 emotion-3"
+  className="emotion-1"
   height={5}
 >
   <div
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     height={5}
   />
 </div>
@@ -90,7 +90,7 @@ exports[`<ProgressBar /> UI snapshot renders with default props 1`] = `
   }
 }
 
-.emotion-2 {
+.emotion-1 {
   position: absolute;
   top: 0;
   left: 0;
@@ -126,11 +126,11 @@ exports[`<ProgressBar /> UI snapshot renders with default props 1`] = `
 }
 
 <div
-  className="emotion-2 emotion-3"
+  className="emotion-1"
   height={4}
 >
   <div
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     height={4}
   />
 </div>

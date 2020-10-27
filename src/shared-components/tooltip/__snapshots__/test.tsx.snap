@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Tooltip /> UI snapshot renders content and children 1`] = `
-.emotion-8 {
+.emotion-4 {
   position: relative;
   -webkit-align-items: left;
   -webkit-box-align: left;
@@ -16,7 +16,7 @@ exports[`<Tooltip /> UI snapshot renders content and children 1`] = `
   cursor: pointer;
 }
 
-.emotion-6 {
+.emotion-3 {
   max-width: none;
   top: 120%;
   background: #332e54;
@@ -43,12 +43,12 @@ exports[`<Tooltip /> UI snapshot renders content and children 1`] = `
   display: block;
 }
 
-.emotion-2 {
+.emotion-1 {
   z-index: 5;
   position: relative;
 }
 
-.emotion-4 {
+.emotion-2 {
   position: absolute;
   z-index: 4;
   top: -8px;
@@ -61,10 +61,10 @@ exports[`<Tooltip /> UI snapshot renders content and children 1`] = `
 
 <div>
   <div
-    className="emotion-8 emotion-9"
+    className="emotion-4"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
       onClick={[Function]}
       onMouseEnter={[Function]}
       onMouseLeave={[Function]}
@@ -72,16 +72,16 @@ exports[`<Tooltip /> UI snapshot renders content and children 1`] = `
       Tooltip Trigger
     </div>
     <div
-      className="emotion-6 emotion-7"
+      className="emotion-3"
       open={false}
     >
       <div
-        className="emotion-2 emotion-3"
+        className="emotion-1"
       >
         Tooltip Content
       </div>
       <div
-        className="emotion-4 emotion-5"
+        className="emotion-2"
       >
         <svg
           fill="#332e54"

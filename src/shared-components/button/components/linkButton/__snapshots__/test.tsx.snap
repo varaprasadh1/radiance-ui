@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<LinkButton/> UI snapshots renders with props 1`] = `
-.emotion-4 {
+.emotion-2 {
   color: #524D6E;
   font-size: 0.75rem;
   line-height: 1.67;
@@ -39,29 +39,29 @@ exports[`<LinkButton/> UI snapshots renders with props 1`] = `
   width: max-content;
 }
 
-.emotion-4:hover {
+.emotion-2:hover {
   -webkit-transition: all 350ms ease-in-out;
   transition: all 350ms ease-in-out;
 }
 
-.emotion-4:active,
-.emotion-4:focus {
+.emotion-2:active,
+.emotion-2:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
-.emotion-4:visited,
-.emotion-4:hover {
+.emotion-2:visited,
+.emotion-2:hover {
   opacity: 0.8;
 }
 
-.emotion-4:focus,
-.emotion-4:not([href]):not([tabindex]):hover,
-.emotion-4:not([href]):not([tabindex]):focus {
+.emotion-2:focus,
+.emotion-2:not([href]):not([tabindex]):hover,
+.emotion-2:not([href]):not([tabindex]):focus {
   color: #ffffff;
 }
 
-.emotion-2 {
+.emotion-1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -85,7 +85,7 @@ exports[`<LinkButton/> UI snapshots renders with props 1`] = `
   transform: translateX(0);
 }
 
-.emotion-2 > svg {
+.emotion-1 > svg {
   opacity: 1;
   -webkit-transition: opacity 350ms;
   transition: opacity 350ms;
@@ -100,16 +100,16 @@ exports[`<LinkButton/> UI snapshots renders with props 1`] = `
 }
 
 <a
-  className="emotion-4"
+  className="emotion-2"
   disabled={false}
   href="#"
   onClick={[Function]}
 >
   <div
-    className="emotion-2 emotion-3"
+    className="emotion-1"
   >
     <span
-      className="emotion-0 emotion-1"
+      className="emotion-0"
     >
       Click me!
     </span>

@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<VerificationMessages /> UI snapshot renders with default props and some messages 1`] = `
-.emotion-8 {
+.emotion-4 {
   list-style-type: none;
   margin: 0;
 }
@@ -19,10 +19,10 @@ exports[`<VerificationMessages /> UI snapshot renders with default props and som
 }
 
 <ul
-  className="emotion-8 emotion-9"
+  className="emotion-4"
 >
   <li
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     style={
       Object {
         "maxHeight": "48px",
@@ -40,7 +40,7 @@ exports[`<VerificationMessages /> UI snapshot renders with default props and som
      This field is required
   </li>
   <li
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     style={
       Object {
         "maxHeight": "48px",
@@ -58,7 +58,7 @@ exports[`<VerificationMessages /> UI snapshot renders with default props and som
      Must be at least 3 characters
   </li>
   <li
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     style={
       Object {
         "maxHeight": "48px",
@@ -75,7 +75,7 @@ exports[`<VerificationMessages /> UI snapshot renders with default props and som
     Must contain 1 symbol
   </li>
   <li
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     style={
       Object {
         "maxHeight": "48px",
@@ -101,7 +101,7 @@ exports[`<VerificationMessages /> UI snapshot renders with default props and som
 `;
 
 exports[`<VerificationMessages /> UI snapshot renders with non-default props 1`] = `
-.emotion-2 {
+.emotion-1 {
   list-style-type: none;
   margin: 0;
   text-align: center;
@@ -120,10 +120,10 @@ exports[`<VerificationMessages /> UI snapshot renders with non-default props 1`]
 }
 
 <ul
-  className="emotion-2 emotion-3"
+  className="emotion-1"
 >
   <li
-    className="emotion-0 emotion-1"
+    className="emotion-0"
     style={
       Object {
         "maxHeight": "48px",

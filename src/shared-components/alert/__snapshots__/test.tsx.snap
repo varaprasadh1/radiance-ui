@@ -33,7 +33,7 @@ exports[`Alert UI snapshots renders a default alert 1`] = `
   }
 }
 
-.emotion-6 {
+.emotion-3 {
   border: none;
   text-align: left;
   cursor: pointer;
@@ -54,13 +54,13 @@ exports[`Alert UI snapshots renders a default alert 1`] = `
   box-shadow: 0px 8px 24px rgba(51,46,84,0.05);
 }
 
-.emotion-6:focus {
+.emotion-3:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
 @media (min-width:768px) {
-  .emotion-6 {
+  .emotion-3 {
     -webkit-animation: animation-1 350ms 1;
     animation: animation-1 350ms 1;
     margin: 0 auto 1rem;
@@ -70,7 +70,7 @@ exports[`Alert UI snapshots renders a default alert 1`] = `
   }
 }
 
-.emotion-4 {
+.emotion-2 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -97,27 +97,27 @@ exports[`Alert UI snapshots renders a default alert 1`] = `
   fill: #ffffff;
 }
 
-.emotion-2 {
+.emotion-1 {
   margin: -3px 0 0 1rem;
   max-height: none;
 }
 
 <button
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   onClick={[Function]}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
     >
       <svg
         fill="#ffffff"
       />
     </div>
     <div
-      className="emotion-2 emotion-3"
+      className="emotion-1"
     >
       Your email address was updated successfully!
     </div>
@@ -222,7 +222,7 @@ exports[`Alert UI snapshots renders a sticky alert 1`] = `
   }
 }
 
-.emotion-6 {
+.emotion-3 {
   border: none;
   text-align: left;
   cursor: pointer;
@@ -243,13 +243,13 @@ exports[`Alert UI snapshots renders a sticky alert 1`] = `
   box-shadow: 0px 8px 24px rgba(51,46,84,0.05);
 }
 
-.emotion-6:focus {
+.emotion-3:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
 @media (min-width:768px) {
-  .emotion-6 {
+  .emotion-3 {
     -webkit-animation: animation-1 350ms 1;
     animation: animation-1 350ms 1;
     margin: 0 auto 1rem;
@@ -259,7 +259,7 @@ exports[`Alert UI snapshots renders a sticky alert 1`] = `
   }
 }
 
-.emotion-4 {
+.emotion-2 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -286,27 +286,27 @@ exports[`Alert UI snapshots renders a sticky alert 1`] = `
   fill: #ffffff;
 }
 
-.emotion-2 {
+.emotion-1 {
   margin: -3px 0 0 1rem;
   max-height: none;
 }
 
 <button
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   onClick={[Function]}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
     >
       <svg
         fill="#ffffff"
       />
     </div>
     <div
-      className="emotion-2 emotion-3"
+      className="emotion-1"
     >
       Your email address was updated successfully!
     </div>
@@ -411,7 +411,7 @@ exports[`Alert UI snapshots renders custom component passed in content prop 1`] 
   }
 }
 
-.emotion-6 {
+.emotion-3 {
   border: none;
   text-align: left;
   cursor: pointer;
@@ -432,13 +432,13 @@ exports[`Alert UI snapshots renders custom component passed in content prop 1`] 
   box-shadow: 0px 8px 24px rgba(51,46,84,0.05);
 }
 
-.emotion-6:focus {
+.emotion-3:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
 @media (min-width:768px) {
-  .emotion-6 {
+  .emotion-3 {
     -webkit-animation: animation-1 350ms 1;
     animation: animation-1 350ms 1;
     margin: 0 auto 1rem;
@@ -448,7 +448,7 @@ exports[`Alert UI snapshots renders custom component passed in content prop 1`] 
   }
 }
 
-.emotion-4 {
+.emotion-2 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -475,27 +475,27 @@ exports[`Alert UI snapshots renders custom component passed in content prop 1`] 
   fill: #ffffff;
 }
 
-.emotion-2 {
+.emotion-1 {
   margin: -3px 0 0 1rem;
   max-height: none;
 }
 
 <button
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   onClick={[Function]}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
     >
       <svg
         fill="#ffffff"
       />
     </div>
     <div
-      className="emotion-2 emotion-3"
+      className="emotion-1"
     >
       <div>
         <strong>
@@ -610,7 +610,7 @@ exports[`Alert UI snapshots renders error alert 1`] = `
   }
 }
 
-.emotion-4 {
+.emotion-2 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -637,12 +637,12 @@ exports[`Alert UI snapshots renders error alert 1`] = `
   fill: #ffffff;
 }
 
-.emotion-2 {
+.emotion-1 {
   margin: -3px 0 0 1rem;
   max-height: none;
 }
 
-.emotion-6 {
+.emotion-3 {
   border: none;
   text-align: left;
   cursor: pointer;
@@ -663,13 +663,13 @@ exports[`Alert UI snapshots renders error alert 1`] = `
   box-shadow: 0px 8px 24px rgba(189,32,15,0.05);
 }
 
-.emotion-6:focus {
+.emotion-3:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
 @media (min-width:768px) {
-  .emotion-6 {
+  .emotion-3 {
     -webkit-animation: animation-1 350ms 1;
     animation: animation-1 350ms 1;
     margin: 0 auto 1rem;
@@ -680,21 +680,21 @@ exports[`Alert UI snapshots renders error alert 1`] = `
 }
 
 <button
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   onClick={[Function]}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
     >
       <svg
         fill="#ffffff"
       />
     </div>
     <div
-      className="emotion-2 emotion-3"
+      className="emotion-1"
     >
       Your email address was updated successfully!
     </div>
@@ -767,7 +767,7 @@ exports[`Alert UI snapshots renders success alert 1`] = `
   }
 }
 
-.emotion-4 {
+.emotion-2 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -794,12 +794,12 @@ exports[`Alert UI snapshots renders success alert 1`] = `
   fill: #ffffff;
 }
 
-.emotion-2 {
+.emotion-1 {
   margin: -3px 0 0 1rem;
   max-height: none;
 }
 
-.emotion-6 {
+.emotion-3 {
   border: none;
   text-align: left;
   cursor: pointer;
@@ -820,13 +820,13 @@ exports[`Alert UI snapshots renders success alert 1`] = `
   box-shadow: 0px 8px 24px rgba(43,110,51,0.05);
 }
 
-.emotion-6:focus {
+.emotion-3:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
 @media (min-width:768px) {
-  .emotion-6 {
+  .emotion-3 {
     -webkit-animation: animation-1 350ms 1;
     animation: animation-1 350ms 1;
     margin: 0 auto 1rem;
@@ -837,21 +837,21 @@ exports[`Alert UI snapshots renders success alert 1`] = `
 }
 
 <button
-  className="emotion-6 emotion-7"
+  className="emotion-3"
   onClick={[Function]}
 >
   <div
-    className="emotion-4 emotion-5"
+    className="emotion-2"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
     >
       <svg
         fill="#ffffff"
       />
     </div>
     <div
-      className="emotion-2 emotion-3"
+      className="emotion-1"
     >
       Your email address was updated successfully!
     </div>

@@ -33,7 +33,7 @@ exports[`<TextButton /> UI snapshots renders with disabled prop 1`] = `
   margin-top: -5px;
 }
 
-.emotion-2 {
+.emotion-1 {
   border-color: transparent;
   background-color: transparent;
   border-radius: 0.25rem;
@@ -41,24 +41,24 @@ exports[`<TextButton /> UI snapshots renders with disabled prop 1`] = `
   cursor: not-allowed;
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   opacity: 0.8;
   background-color: transparent;
 }
 
-.emotion-2:active,
-.emotion-2:focus {
+.emotion-1:active,
+.emotion-1:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
 <button
-  className="emotion-2 emotion-3"
+  className="emotion-1"
   disabled={true}
   onClick={[Function]}
 >
   <div
-    className="emotion-0 emotion-1"
+    className="emotion-0"
   >
     Disabled Button Text
   </div>
@@ -66,7 +66,7 @@ exports[`<TextButton /> UI snapshots renders with disabled prop 1`] = `
 `;
 
 exports[`<TextButton /> UI snapshots renders without any props 1`] = `
-.emotion-2 {
+.emotion-1 {
   border-color: transparent;
   background-color: transparent;
   border-radius: 0.25rem;
@@ -74,13 +74,13 @@ exports[`<TextButton /> UI snapshots renders without any props 1`] = `
   cursor: pointer;
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   opacity: 0.8;
   background-color: transparent;
 }
 
-.emotion-2:active,
-.emotion-2:focus {
+.emotion-1:active,
+.emotion-1:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
@@ -118,12 +118,12 @@ exports[`<TextButton /> UI snapshots renders without any props 1`] = `
 }
 
 <button
-  className="emotion-2 emotion-3"
+  className="emotion-1"
   disabled={false}
   onClick={[Function]}
 >
   <div
-    className="emotion-0 emotion-1"
+    className="emotion-0"
   >
     Button Text
   </div>

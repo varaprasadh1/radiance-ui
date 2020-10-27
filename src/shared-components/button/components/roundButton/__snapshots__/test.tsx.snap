@@ -91,7 +91,7 @@ exports[`<RoundButton /> UI snapshots renders with props 1`] = `
   }
 }
 
-.emotion-5 {
+.emotion-3 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -109,7 +109,7 @@ exports[`<RoundButton /> UI snapshots renders with props 1`] = `
   justify-content: center;
 }
 
-.emotion-2 {
+.emotion-1 {
   color: #524D6E;
   font-size: 0.75rem;
   line-height: 1.67;
@@ -155,24 +155,24 @@ exports[`<RoundButton /> UI snapshots renders with props 1`] = `
   padding: 0;
 }
 
-.emotion-2:hover {
+.emotion-1:hover {
   -webkit-transition: all 350ms ease-in-out;
   transition: all 350ms ease-in-out;
 }
 
-.emotion-2:active,
-.emotion-2:focus {
+.emotion-1:active,
+.emotion-1:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
-.emotion-2:visited,
-.emotion-2:hover {
+.emotion-1:visited,
+.emotion-1:hover {
   opacity: 1;
   color: #c3c0cd;
 }
 
-.emotion-2 > svg {
+.emotion-1 > svg {
   opacity: 1;
   -webkit-transition: opacity 350ms;
   transition: opacity 350ms;
@@ -230,23 +230,23 @@ exports[`<RoundButton /> UI snapshots renders with props 1`] = `
   background-color: #ffffff;
 }
 
-.emotion-4 {
+.emotion-2 {
   color: #524D6E;
   margin: 10px 0;
 }
 
 <div
-  className="emotion-5 emotion-6"
+  className="emotion-3"
 >
   <button
-    className="emotion-2 emotion-3"
+    className="emotion-1"
     disabled={true}
     onClick={[Function]}
     type="button"
   >
     <svg />
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
       disabled={true}
     >
       <div>
@@ -257,7 +257,7 @@ exports[`<RoundButton /> UI snapshots renders with props 1`] = `
     </div>
   </button>
   <p
-    className="emotion-4"
+    className="emotion-2"
   >
     Button Text
   </p>

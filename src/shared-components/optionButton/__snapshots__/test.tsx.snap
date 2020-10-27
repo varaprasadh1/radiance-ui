@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<OptionButton /> UI snapshots checkbox selected, without custom icon 1`] = `
-.emotion-8 {
+.emotion-4 {
   border-radius: 4px;
   background-color: #ffffff;
   border: 1px solid #ededf0;
@@ -15,16 +15,16 @@ exports[`<OptionButton /> UI snapshots checkbox selected, without custom icon 1`
   text-align: left;
 }
 
-.emotion-8:hover {
+.emotion-4:hover {
   box-shadow: 0px 8px 24px rgba(52,51,82,0.10);
 }
 
-.emotion-8:focus {
+.emotion-4:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
-.emotion-6 {
+.emotion-3 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -85,26 +85,26 @@ exports[`<OptionButton /> UI snapshots checkbox selected, without custom icon 1`
   fill: #ffffff;
 }
 
-.emotion-4 {
+.emotion-2 {
   margin-left: 1rem;
 }
 
-.emotion-2 {
+.emotion-1 {
   color: #524D6E;
   line-height: 1.5;
 }
 
 <button
-  className="emotion-8 emotion-9"
+  className="emotion-4"
   onClick={[Function]}
   role="checkbox"
   type="button"
 >
   <div
-    className="emotion-6 emotion-7"
+    className="emotion-3"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
       selected={true}
     >
       <svg
@@ -113,10 +113,10 @@ exports[`<OptionButton /> UI snapshots checkbox selected, without custom icon 1`
       />
     </div>
     <div
-      className="emotion-4 emotion-5"
+      className="emotion-2"
     >
       <div
-        className="emotion-2 emotion-3"
+        className="emotion-1"
       >
         checkbox text
       </div>
@@ -126,7 +126,7 @@ exports[`<OptionButton /> UI snapshots checkbox selected, without custom icon 1`
 `;
 
 exports[`<OptionButton /> UI snapshots radio unselected, with icon node prop 1`] = `
-.emotion-8 {
+.emotion-4 {
   border-radius: 4px;
   background-color: #ffffff;
   border: 1px solid #ededf0;
@@ -140,16 +140,16 @@ exports[`<OptionButton /> UI snapshots radio unselected, with icon node prop 1`]
   text-align: left;
 }
 
-.emotion-8:hover {
+.emotion-4:hover {
   box-shadow: 0px 8px 24px rgba(52,51,82,0.10);
 }
 
-.emotion-8:focus {
+.emotion-4:focus {
   outline: none;
   box-shadow: 0px 0px 0px 2px #ffffff,0px 0px 0px 4px #332e54;
 }
 
-.emotion-6 {
+.emotion-3 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -167,11 +167,11 @@ exports[`<OptionButton /> UI snapshots radio unselected, with icon node prop 1`]
   align-items: center;
 }
 
-.emotion-4 {
+.emotion-2 {
   margin-left: 1rem;
 }
 
-.emotion-2 {
+.emotion-1 {
   color: #524D6E;
   line-height: 1.5;
 }
@@ -220,25 +220,25 @@ exports[`<OptionButton /> UI snapshots radio unselected, with icon node prop 1`]
 }
 
 <button
-  className="emotion-8 emotion-9"
+  className="emotion-4"
   onClick={[Function]}
   role="radio"
   type="button"
 >
   <div
-    className="emotion-6 emotion-7"
+    className="emotion-3"
   >
     <div
-      className="emotion-0 emotion-1"
+      className="emotion-0"
       selected={false}
     >
       <svg />
     </div>
     <div
-      className="emotion-4 emotion-5"
+      className="emotion-2"
     >
       <div
-        className="emotion-2 emotion-3"
+        className="emotion-1"
       >
         radio text
       </div>
